@@ -19,3 +19,4 @@
  °  Pausar o cronômetro
    <br>
 ° Reiniciar o cronômetro </h3>
+https://beatrizfelicia.github.io/Cronometro/
